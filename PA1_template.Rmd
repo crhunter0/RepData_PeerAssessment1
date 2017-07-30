@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-library(knitr)
+#library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
 ```
   
